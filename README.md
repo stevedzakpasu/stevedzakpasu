@@ -1,8 +1,8 @@
 <h1 align="center">
-Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"><br> Je suis Steve.
+Hi! je suis steve.
 </h1>
 <p align="center">
-I'm a software developer and a final year
+I'm a software engineer and a final year
 Computer Science student from the University
 of Ghana.
 </p>
