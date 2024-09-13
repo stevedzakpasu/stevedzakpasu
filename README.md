@@ -27,7 +27,6 @@
 
 Feel free to reach out for collaborations or projects!  
 **Email**: steve.dzakpasu@gmail.com  
-**LinkedIn**: [linkedin.com/in/stevedzakpasu](https://linkedin.com/in/stevedzakpasu)  
-**GitHub**: [github.com/stevedzakpasu](https://github.com/stevedzakpasu)
+**LinkedIn**: [linkedin.com/in/stevedzakpasu](https://linkedin.com/in/stevedzakpasu) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevedzakpasu&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/stevedzakpasu)
